@@ -16,5 +16,5 @@
     <img aling= "center" alt="MySQL"src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
-Sou um estudante apaixonado por analise de dados e atualmente me especializando nessa área fascinante.
+Sou um estudante apaixonado por analise de dados e atualmente estou me especializando nessa área fascinante.
 
