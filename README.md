@@ -9,7 +9,7 @@
 
 <div style="display: inline_block"><br/>
     <img aling= "center" alt="Excel"src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-    <img aling= "center" alt="Power BI" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" width="35" height="35" />
+    <img aling= "center" alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"  />
     <img aling= "center" alt="Power apps" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-Apps-Colored.png?raw=true" width="35" height="35" />
     <img aling= "center" alt="Power automate" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-Automate-Colored.png?raw=true" width="35" height="35" />
     <img aling= "center" alt="Python"src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
